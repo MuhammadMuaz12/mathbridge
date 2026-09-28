@@ -1,0 +1,10 @@
+.git
+.next
+node_modules
+.env*
+.sites-runtime
+.wrangler
+outputs
+work
+scripts/sites-*
+scripts/run-framework.mjs
